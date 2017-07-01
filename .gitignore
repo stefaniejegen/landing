@@ -1,2 +1,13 @@
+# Folders
+/home/web/177595/bin
+/home/web/177595/conf
+/home/web/177595/errordocs
+/home/web/177595/log
 /node_modules
+
+# Files
 /.idea
+/home/web/177595/.bash_logout
+/home/web/177595/.bashrc
+/home/web/177595/.phprc
+/home/web/177595/.profile
